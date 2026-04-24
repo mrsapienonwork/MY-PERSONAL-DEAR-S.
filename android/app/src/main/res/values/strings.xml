@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DEAR S.</string>
+    <string name="title_activity_main">DEAR S.</string>
+    <string name="package_name">com.sonu.dears</string>
+    <string name="custom_url_scheme">com.sonu.dears</string>
+</resources>
